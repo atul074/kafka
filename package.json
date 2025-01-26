@@ -1,0 +1,11 @@
+{
+  "name": "kafka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/atul074/kafka.git",
+  "author": "atul074 <atultandan074@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
